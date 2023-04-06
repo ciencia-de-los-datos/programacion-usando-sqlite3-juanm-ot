@@ -21,4 +21,9 @@
 --  4  E  14  832.44  800  2016-11-22  0.39  EGFD
 --
 --  >>> Escriba su codigo a partir de este punto <<<
---  
+-- 
+select
+*
+from tbl1
+order by c14 
+limit 5;
